@@ -1,0 +1,22 @@
+<?php
+return [
+    'button.accept' => 'Accept',
+    'button.chat' => 'Chat',
+    'button.decline_request' => 'Decline request',
+    'confirm.remove' => 'Are you sure you want to remove this user from your friends?',
+    'text.error_accept_friendship' => 'You have already accepted friendship with this user.',
+    'text.error_already_friends' => 'You already friends with this user.',
+    'text.error_friendship_access' => 'This user do not accept friendship requests. You can subscribe to him, to watch his new posts.',
+    'text.error_not_friends' => 'You are not friends.',
+    'text.friend_list_is_loading' => 'Friend list is loading...',
+    'text.success_accept_friendship' => 'You have successfully accepted friendship with this user.',
+    'text.success_cancel_friendship' => 'You are no longer friends with this user.',
+    'text.success_request_friendship' => 'Your friendship request was successfully sent to current user.',
+    'text.you_have_no_friends_yet' => 'You have no friends yet. Try to search by your friends nicknames.',
+    'title' => '{username} friends',
+    'title.filter_all' => 'All',
+    'title.filter_offline' => 'Offline',
+    'title.filter_online' => 'Online',
+    'title.filter_pending' => 'Pending',
+    'title.friends_list' => 'Friend list',
+];

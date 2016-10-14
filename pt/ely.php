@@ -1,0 +1,21 @@
+<?php
+return [
+    'button.add' => 'Adicionar',
+    'button.done' => 'Pronto',
+    'button.download' => 'Download',
+    'button.edit' => 'Editar',
+    'button.more' => 'Mais',
+    'button.remove' => 'Remover',
+    'button.report' => 'Reporte',
+    'button.save' => 'Salvar',
+    'button.upload' => 'Upload',
+    'confirm.continue' => 'Você tem certeza que quer continuar??',
+    'image.email_site_name' => '@@pt/email/ely-by.png@@',
+    'image.email_site_name_footer' => '@@pt/email/ely-by-footer.png@@',
+    'text.cube' => 'Cubar isso',
+    'text.uncube' => 'Descubar',
+    'title.append' => 'Sistema de Skins do Ely.by',
+    'title.site_description' => 'Alternative Minecraft services',
+    'title.site_name' => 'Ely.by',
+    'title.site_name_full' => 'Galeria e Sistema de Skins para Minecraft Ely.By',
+];

@@ -1,0 +1,30 @@
+<?php
+return [
+    'confirm.remove' => 'Você tem certeza de que quer deletar essa postagem?',
+    'menu.get_link' => 'Pegar link',
+    'menu.pin_post' => 'Fixar postagem',
+    'menu.unpin_post' => 'Desfixar postagem',
+    'text.collapse_comments' => 'Contrair comentários',
+    'text.error_can_not_repost_own_post' => 'Você não pode re-postar sua própria postagem.',
+    'text.error_only_author_can_edit' => 'Apenas o autor da postagem pode editar ela.',
+    'text.error_only_friend_can_post' => 'Para escrever nesse mural você deve adicionar o usuário à sua lista de amigos.',
+    'text.error_only_owner_can_post' => 'Apenas o dono do mural pode escrever nele.',
+    'text.error_post_delete' => 'Você não pode deletar essa postagem.',
+    'text.error_post_not_exists' => 'A postagem procurada não existe.',
+    'text.get_link' => 'Selecione e copie esse link para compartilhá-lo com seus amigos.',
+    'text.load_old_comments' => 'Carregar comentários antigos',
+    'text.post_is_pinned' => 'Essa postagem está fixada.',
+    'text.success_post_attach' => 'Postagem fixada com sucesso. Agora ela aparecerá encima de todas as outras postagens.',
+    'text.success_post_create' => 'Nova postagem foi adicionada com sucesso ao seu mural.',
+    'text.success_post_delete' => 'Postagem removida com sucesso.',
+    'text.success_post_detach' => 'Postagem desfixada com sucesso.',
+    'text.x_comments' => '{commentsCount, plural,
+        one   {# comentário}
+        other {# comentários}
+    }',
+    'title' => 'Postagem #{postNumber}',
+    'title.add_new_post' => 'Adicionar nova postagem',
+    'title.get_link' => 'Pegar link direto',
+    'tooltip.repost' => 'Repostar',
+    'tooltip.undo_repost' => 'Desfazer repostagem',
+];

@@ -1,0 +1,21 @@
+<?php
+return [
+    'button.add' => 'Добавить',
+    'button.done' => 'Готово',
+    'button.download' => 'Скачать',
+    'button.edit' => 'Изменить',
+    'button.more' => 'Подробнее',
+    'button.remove' => 'Удалить',
+    'button.report' => 'Пожаловаться',
+    'button.save' => 'Сохранить',
+    'button.upload' => 'Загрузить',
+    'confirm.continue' => 'Вы уверены, что хотите продолжить?',
+    'image.email_site_name' => '@@ru/email/ely-by.png@@',
+    'image.email_site_name_footer' => '@@ru/email/ely-by-footer.png@@',
+    'text.cube' => 'Кубнуть',
+    'text.uncube' => 'Снять куб',
+    'title.append' => 'Система скинов Ely.by',
+    'title.site_description' => 'Альтернативные сервисы Minecraft',
+    'title.site_name' => 'Ely.by',
+    'title.site_name_full' => 'Каталог и система скинов для Mineraft Ely.by',
+];
