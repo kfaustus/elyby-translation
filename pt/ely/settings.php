@@ -1,11 +1,11 @@
 <?php
 return [
-    'button.change' => 'Change',
+    'button.change' => 'Mudar',
     'button.save_settings' => 'Salvar configurações',
-    'password_example' => 'yes, your password',
-    'text.account_settings' => 'Account settings:',
-    'text.account_settings_description' => 'Minecraft nickname, assigned E-mail and account password is controlled via our external service "Accounts Ely.by". Here you can view their current values, but to change it you have to visit external site.',
-    'text.category_account' => 'Account',
+    'password_example' => 'Sim, a sua senha',
+    'text.account_settings' => 'Configurações da conta:',
+    'text.account_settings_description' => 'O nome de usuário no Minecraft, o e-mail escolhido e a senha é controlado pelo nosso serviço de "Contas Ely.by". Aqui você pode ver seus valores atuais, mas se quiser muda-los, terá que usar o site externo.',
+    'text.category_account' => 'Conta',
     'text.category_general' => 'Geral',
     'text.category_notifications' => 'Notificações',
     'text.category_privacy' => 'Privacidade',
@@ -16,7 +16,7 @@ return [
     'text.gender_female' => 'Feminino',
     'text.gender_male' => 'Masculino',
     'text.gender_not_set' => 'Não especificado',
-    'text.minecraft_username' => 'Minecraft username:',
+    'text.minecraft_username' => 'Nome de usuário no minecraft:',
     'text.nickname' => 'Apelido:',
     'text.notifications_desc_chat_message' => 'Mensagens não lidas no chat',
     'text.notifications_desc_comments' => 'Para o seu conteúdo (postagem, skin, etc.), ou outro conteúdo, faça um novo comentário',
@@ -26,7 +26,7 @@ return [
     'text.notifications_on_email' => 'Por E-mail',
     'text.notifications_on_site' => 'Por site',
     'text.notifications_settings' => 'Configurações de notificação:',
-    'text.password' => 'Password:',
+    'text.password' => 'Senha:',
     'text.privacy_can_invite_to_friends' => '{selected_index, select,
         0     {pode convidar-me como um amigo.}
         1     {pode convidar um amigo.}

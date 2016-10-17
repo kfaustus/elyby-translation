@@ -2,7 +2,7 @@
 return [
     'button.all_friends' => 'Todos os amigos',
     'button.register' => 'Registro',
-    'link.add_to_friends' => 'Add this user to friends',
+    'link.add_to_friends' => 'Adicionar este usuário aos amigos',
     'link.chat' => 'Chat',
     'link.skins' => 'Skins',
     'link.subscribe_to_posts' => 'Inscrever-se para mensagens',

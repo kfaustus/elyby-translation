@@ -9,7 +9,7 @@ return [
             <td>Para os outros verem sua skin, eles vão precisar instalar o mesmo sistema de skins. Isso não significa que eles precisam de se registar no Ely.by, mas eles precisam fazer o download e instalar o nosso patch, que está localizado na página de downloads <a href="/load"> </a>. Isto deve ser feito mesmo se seus amigos têm uma licença de Minecraft.</td>
         </tr>
         <tr>
-            <td>No singleplayer a skin aparenta estar normal, mas no multiplayer a skin não aparecer ou é outra.</td>
+            <td>No singleplayer a skin aparenta estar normal, mas no multiplayer a skin não aparece ou é outra.</td>
             <td>A maioria dos servidores na versão 1.7.9 acima chamado usam tão chamado "Restaurador de Skins", que força a skin de um sistema oficial de skins e ignora nosso sistema. Pergunte sobre isso com o administrador do servidor.</td>
         </tr>
         <tr>

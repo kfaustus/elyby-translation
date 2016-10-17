@@ -1,12 +1,12 @@
 <?php
 return [
-    'button.activate_account' => 'Activate account',
+    'button.activate_account' => 'Ativar conta',
     'label.email' => 'E-mail:',
-    'label.i_accept' => 'I accept',
-    'label.minecraft_username' => 'Username in Minecraft:',
-    'label.nickname_on_site' => 'Site nickname',
-    'label.site_language' => 'Site language',
-    'link.elyby_terms' => 'Ely.by terms of use',
-    'text.finishing_registration' => 'Completion of registration on Ely.by',
-    'text.nickname_description' => 'If you don\'t specify nickname for site, then your Minecraft username will be used.',
+    'label.i_accept' => 'Eu aceito os',
+    'label.minecraft_username' => 'Nome de usuário no Minecraft',
+    'label.nickname_on_site' => 'Nome de usuário no site',
+    'label.site_language' => 'Idioma do site',
+    'link.elyby_terms' => 'Termos de uso do Ely.by',
+    'text.finishing_registration' => 'Conclusão do registro',
+    'text.nickname_description' => 'Se você não especificar um nome de usuário do site, seu nome de usuário de Minecraft sera usado no lugar',
 ];

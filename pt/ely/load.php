@@ -1,6 +1,6 @@
 <?php
 return [
-    'button.download' => 'Download',
+    'button.download' => 'Baixar',
     'button.have_some_questions' => 'Tem algumas perguntas?',
     'link.tlauncher_group_url' => 'https://fb.com/tlauncher',
     'text.instruction_for_linux' => '
@@ -11,8 +11,8 @@ return [
     ',
     'text.instruction_for_windows_authlib' => '
         <li>Mova para a pasta "libraries", então /com/mojang/authlib.</li>
-        <li>Open downloaded from this site archive and see the file authlib-x.x.x. You should open an folder with the same name with file inside archive.</li>
-        <li>Replace inside folder original .jar file to file from our archive.</li>
+        <li>Abra o arquivo baixado do nosso site e você verá um arquivo chamado authlib-x.x.x.</li>
+        <li>Substitua o arquivo .jar original e coloque o baixado do nosso site.</li>
     ',
     'text.instruction_for_windows_common' => '
         <li>Aperte simultaneamente Win+R (tecla Win - tecla com símbolo da Microsoft).</li>
