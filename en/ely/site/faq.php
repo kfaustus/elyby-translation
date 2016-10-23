@@ -32,23 +32,24 @@ return [
         </tr>
         <tr>
             <td>Why i cant find cloaks, ears, HD-skins there?</td>
-            <td>I want to give users free alternative of official sceens.If i give them cloaks, ears, HD-skins, it will kill all the essence of Minecraft skins. But do not worry, in the current version of the patch that you will downloading, registered code to load cloaks, but we have reserved them for something more interesting.</td>
+            <td>We want to give users free alternative of the official skin system.If we give them cloaks, ears, HD-skins, it will hurt 
+            the spirit of Minecraft skins. But do not worry, the current version of our patch is able to load cloaks, but we have reserved them for something more interesting.</td>
         </tr>
         <tr>
-            <td>But I want cloaks/ears/HD-skins very much!</td>
-            <td>There is a French project, that called <a href="http://minecrack.fr.nf/">MineCrack</a>. There are you can find everything things, that you cant find in the official Minecraft and Ely.</td>
+            <td>But I really want cloaks/ears/HD-skins!</td>
+            <td>There is a French project, that called <a href="http://minecrack.fr.nf/">MineCrack</a>. There you can find everything that you can\'t find in official Minecraft and Ely.</td>
         </tr>
         <tr>
-            <td>Can I use this is system of skins on my server?</td>
-            <td>Can and must! The more people use our skins system, the faster it will be an alternative of the official and number of "Steves" on the servers will decline.</td>
+            <td>Can I use this skins system on my server?</td>
+            <td>You can and should! The more people use our skins system, the faster it will become an alternative to official, and you\'ll see a lot less of "Steves" on servers.</td>
         </tr>
         <tr>
-            <td>On my skin I have ears/cloaks. How can i delete it?</td>
-            <td>As told above, Ely doesnt support neither one neither other. This is means, that your client has any third-party patch, that it add. Perform a clean installation of the client and everything will be gone.</td>
+            <td>On my own skin I can see ears/cloaks. How can I delete it?</td>
+            <td>As told above, Ely doesn\'t support neither of them. Consequently, your client probably has any third-party patch installed. Perform a clean installation of the client and they shall be gone.</td>
         </tr>
         <tr>
-            <td>Where can I download/how launch Minecraft?</td>
-            <td>You can find <a href="http://bfy.tw/2gGK" target="_blank">there</a>, I think you will find it quickly.</td>
+            <td>Where can I find Minecraft?</td>
+            <td>Try searching <a href="http://bfy.tw/8KYT" target="_blank">here</a>, we think you\'ll find it pretty quickly.</td>
         </tr>
     ',
     'text.question' => 'Question',
