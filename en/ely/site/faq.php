@@ -5,49 +5,51 @@ return [
     'text.faq' => 'Frequently Asked Questions',
     'text.page_content' => '
         <tr>
-            <td>I can see my skin and the other not.</td>
-            <td>For others can see you skin, they need to install the same skin system. This does not mean that they need to register on Ely.by, but they need to download and install our patch, which is located on the <a href="/load">download page</a>. This must be done even if your friends have a license Minecraft.</td>
+            <td>What to do if my friends can\'t see my skin in game?</td>
+            <td>Only users of the same skin system can see each other\'s skins. They don\'t have to sign up on Ely.by, but they do need to download and install Ely.by\'s patch, which is located <a href="/load">here</a>. This applies for the licensed Minecraft users too.</td>
         </tr>
         <tr>
-            <td>In single player skin appears normal, but on multi player does not appear or the skin is another.</td>
-            <td>The majority of servers on version 1.7.9 and above use so-called "Skin Restorer" which forcibly loads the skin of an official skins system and ignores our system. Ask about it with server administrator.</td>
+            <td>What to do if I can\'t see my own skin outside the singleplayer mode?</td>
+            <td>The majority of Minecraft v1.7.9 servers and above use so-called "Skin Restorer" which forcibly loads the skin of an official skins system and ignores our system. Ask server administrator about this problem.</td>
         </tr>
         <tr>
-            <td>After installing skins system during boot I see black screen. What to do?</td>
-            <td>Most likely you still forget to delete the folder META-INF. Also, it is possible that you just downloaded the wrong version of skins system.</td>
+            <td>How to fix black screen problem after installing skin system?</td>
+            <td>Most likely you forgot to delete your META-INF folder. It is also very likely that you downloaded the wrong version of our skin system.</td>
         </tr>
         <tr>
-            <td>I use Minecraft 1.6+. After installing skins system ceased to run Minecraft. What to do?</td>
-            <td>The need to find your launcher startup parameter and append a line<br />
-                "-Dfml.ignoreInvalidMinecraftCertificates=true" without the quotes. If you use a bat-file, it is necessary to open it any text editor, and in the end just append this line.</td>
+            <td>I use Minecraft v1.6+. After installing the skins system Minecraft is failing to run. What to do?</td>
+            <td>Find your launcher\'s startup parameter and add next line:<br />
+                "-Dfml.ignoreInvalidMinecraftCertificates=true"<br />
+                to the end of it. If you are using a bat-file, it is necessary to open it with any text editor and add above line to the end of it.</td>
         </tr>
         <tr>
-            <td>I installed the skins system, but my own launcher updates the client and removes it.</td>
-            <td>Yes, some launchers can not allow to patch Minecraft. Unfortunately not all the launchers, you can disable this feature. Maybe you need another Minecraft launcher.</td>
+            <td>I installed the skins system, but my launcher updates the client and removes it. What to do?</td>
+            <td>Yes, some launchers don\'t allow to patch Minecraft. Disable this feature or, if you can\'t, use another launcher.</td>
         </tr>
         <tr>
-            <td>I changed my skin, but I see my previous skin in Minecraft.</td>
-            <td>This is a characteristic of the algorithm loading skins in Minecraft. If you already go in the game, you will need to restart it. If the problem persists, then put on any skin from our skins catalog and then put back desired skin. Maybe just could not update the information about your skin in the skins system.</td>
+            <td>I changed my skin, but I still see my previous skin in Minecraft.</td>
+            <td>Relaunch your Minecraft. If issue is still there, try to re-change your skin on Ely.by.</td>
         </tr>
         <tr>
             <td>Why i cant find cloaks, ears, HD-skins there?</td>
-            <td>I want to give users free alternative of official sceens.If i give them cloaks, ears, HD-skins, it will kill all the essence of Minecraft skins. But do not worry, in the current version of the patch that you will downloading, registered code to load cloaks, but we have reserved them for something more interesting.</td>
+            <td>We want to give users free alternative of the official skin system.If we give them cloaks, ears, HD-skins, it will hurt 
+            the spirit of Minecraft skins. But do not worry, the current version of our patch is able to load cloaks, but we have reserved them for something more interesting.</td>
         </tr>
         <tr>
-            <td>But I want cloaks/ears/HD-skins very much!</td>
-            <td>There is a French project, that called <a href="http://minecrack.fr.nf/">MineCrack</a>. There are you can find everything things, that you cant find in the official Minecraft and Ely.</td>
+            <td>But I really want cloaks/ears/HD-skins!</td>
+            <td>There is a French project, that called <a href="http://minecrack.fr.nf/">MineCrack</a>. There you can find everything that you can\'t find in official Minecraft and Ely.</td>
         </tr>
         <tr>
-            <td>Can I use this is system of skins on my server?</td>
-            <td>Can and must! The more people use our skins system, the faster it will be an alternative of the official and number of "Steves" on the servers will decline.</td>
+            <td>Can I use this skins system on my server?</td>
+            <td>You can and should! The more people use our skins system, the faster it will become an alternative to official, and you\'ll see a lot less of "Steves" on servers.</td>
         </tr>
         <tr>
-            <td>On my skin I have ears/cloaks. How can i delete it?</td>
-            <td>As told above, Ely doesnt support neither one neither other. This is means, that your client has any third-party patch, that it add. Perform a clean installation of the client and everything will be gone.</td>
+            <td>On my own skin I can see ears/cloaks. How can I delete it?</td>
+            <td>As told above, Ely doesn\'t support neither of them. Consequently, your client probably has any third-party patch installed. Perform a clean installation of the client and they shall be gone.</td>
         </tr>
         <tr>
-            <td>Where can I download/how launch Minecraft?</td>
-            <td>You can find <a href="http://bfy.tw/2gGK" target="_blank">there</a>, I think you will find it quickly.</td>
+            <td>Where can I find Minecraft?</td>
+            <td>Try searching <a href="http://bfy.tw/8KYT" target="_blank">here</a>, we think you\'ll find it pretty quickly.</td>
         </tr>
     ',
     'text.question' => 'Question',
