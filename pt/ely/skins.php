@@ -89,6 +89,7 @@ return [
     'text.untitled' => 'Sem título',
     'text.upload_by_minecraft_nickname' => 'Digite o nick do jogador do Minecraft Oficial e o Ely vai baixá-lo automaticamente.',
     'text.upload_by_url' => 'Digite o Url direito para o arquivo de skin ou a página de skin de outro catálogo de skin.',
+    'text.uploaded_at' => '',
     'text.wrong_skin_extension' => 'A skin deve estar no formato PNG',
     'text.wrong_skin_resolution' => 'Resolução de skin inválido.',
     'text.wrong_skin_size' => 'Tamanho da imagem excede o tamanho permitido. Talvez você não escolheu uma skin?',

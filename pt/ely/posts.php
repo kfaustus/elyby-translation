@@ -14,6 +14,7 @@ return [
     'text.get_link' => 'Selecione e copie esse link para compartilhá-lo com seus amigos.',
     'text.load_old_comments' => 'Carregar comentários antigos',
     'text.post_is_pinned' => 'Essa postagem está fixada.',
+    'text.published_at' => '',
     'text.success_post_attach' => 'Postagem fixada com sucesso. Agora ela aparecerá encima de todas as outras postagens.',
     'text.success_post_create' => 'Nova postagem foi adicionada com sucesso ao seu mural.',
     'text.success_post_delete' => 'Postagem removida com sucesso.',

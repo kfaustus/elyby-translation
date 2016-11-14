@@ -14,6 +14,7 @@ return [
     'text.get_link' => 'Select and copy this link, to share it with your friends.',
     'text.load_old_comments' => 'Load old comments',
     'text.post_is_pinned' => 'This post is pinned',
+    'text.published_at' => 'Published at',
     'text.success_post_attach' => 'Post successfully pinned. Now it will be always shown on top of all post.',
     'text.success_post_create' => 'New post was successfully added to your wall.',
     'text.success_post_delete' => 'Post was successfully removed.',
