@@ -18,6 +18,7 @@ return [
     'text.gender_not_set' => 'Não especificado',
     'text.minecraft_username' => 'Nome de usuário no minecraft:',
     'text.nickname' => 'Apelido:',
+    'text.nickname_desc' => '',
     'text.notifications_desc_chat_message' => 'Mensagens não lidas no chat',
     'text.notifications_desc_comments' => 'Para o seu conteúdo (postagem, skin, etc.), ou outro conteúdo, faça um novo comentário',
     'text.notifications_desc_friends_invite' => 'Usuário oferece amizade',
