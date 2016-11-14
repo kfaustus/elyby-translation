@@ -4,6 +4,7 @@ return [
     'button.apply' => 'Apply',
     'button.choose_file' => 'Choose file',
     'button.load_more_skins' => 'Load more skins',
+    'button.loading' => 'Please stand by',
     'button.lock' => 'Lock',
     'button.put_on' => 'Put on',
     'button.save_changes' => 'Save changes',

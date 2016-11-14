@@ -4,6 +4,7 @@ return [
     'button.apply' => 'Применить',
     'button.choose_file' => 'Выбрать файл',
     'button.load_more_skins' => 'Загрузить ещё скины',
+    'button.loading' => 'Загружаем',
     'button.lock' => 'Защитить',
     'button.put_on' => 'Надеть',
     'button.save_changes' => 'Сохранить изменения',
