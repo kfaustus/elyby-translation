@@ -31,11 +31,11 @@ return [
         <p>Este sistema é livre e nunca será pago!</p>
     ',
     'text.skins_directory' => 'Ao contrário do <b>sistema oficial de pele</b>, Ely.by tem o seu próprio catálogo de skins, onde você pode encontrar milhares de skins variáveis, enviados por outros usuários. Todas as skins podem ser filtrados por vários parâmetros, tais como cor, tipo, popularidade, etiquetas, etc. Além disso, você pode fazer upload de skin de outros catálogos de skin apenas proporcionando uma URL. O resto do trabalho vai ser feito por nosso analisador inteligente.',
-    'text.the_easiest_way_to_get_skin' => 'Não mais substituir o char.png, não mais skins por nicks. Agora você pode escolher nicks e skins de seu própria escolha. Ely.by suporta todas as versões de Minecraft e é fácil de usar.',
+    'text.the_easiest_way_to_get_skin' => 'Sem substituir o char.png, Sem skins por nicks. Agora você pode escolher nicks e skins de seu própria escolha. Ely.by suporta todas as versões de Minecraft e é fácil de usar.',
     'title' => 'Bem-Vindo!',
     'title.auth_system_for_server' => 'Sistema de autorização para servidor de Minecraft',
     'title.better_than_official' => 'Melhor que os serviços oficiais',
-    'title.ely_alternative_to_mojang' => 'Ely.by - substituição de uma paragem para serviços Mojang',
+    'title.ely_alternative_to_mojang' => 'Ely.by - substituição de pagar para serviços da Mojang',
     'title.ely_beautiful_and_easy_to_use_skin_system' => 'Ely.by nick e sistema de skin bonito para Minecraft',
     'title.ely_by_for_server_owners' => 'Ely.By para os donos de servidores',
     'title.ely_multiplayer' => 'Ely para multiplayer',
