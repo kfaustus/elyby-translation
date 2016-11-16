@@ -13,6 +13,7 @@ return [
         one   {# subscriber}
         other {# subscribers}
     }',
+    'text.go_to_accounts' => 'Go to Ely.by Accounts',
     'text.mark_notifications_readed' => 'Mark all as read',
     'text.no_new_notifications' => 'No new notifications',
     'text.notifications_loading' => 'Loading notifications',

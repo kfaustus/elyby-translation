@@ -17,6 +17,7 @@ return [
         many  {# подписчиков}
         other {# подписчиков}
     }',
+    'text.go_to_accounts' => 'Перейти на Аккаунты Ely.by',
     'text.mark_notifications_readed' => 'Отметить все прочитанными',
     'text.no_new_notifications' => 'Новых уведомлений нет',
     'text.notifications_loading' => 'Идёт загрузка уведомлений',

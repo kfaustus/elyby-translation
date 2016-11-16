@@ -13,6 +13,7 @@ return [
         one   {# inscrito}
         other {# inscritos}
     }',
+    'text.go_to_accounts' => '',
     'text.mark_notifications_readed' => 'Marcar tudo com lido',
     'text.no_new_notifications' => 'Não há novas notificações',
     'text.notifications_loading' => 'Carregando notificações',
