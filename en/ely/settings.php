@@ -18,7 +18,7 @@ return [
     'text.gender_not_set' => 'Not specified',
     'text.minecraft_username' => 'Minecraft username:',
     'text.nickname' => 'Nickname:',
-    'text.nickname_desc' => 'Please note that this nickname is used on the site. <b>To change Minecraft nickname</b> you should go to <a href="#account" class="no-ajax">Account tab</a>.',
+    'text.nickname_desc' => 'Hint: you just changed your site\'s nickname, if you want to <b>change Minecraft nickname</b> you should go to <a href="#account" class="no-ajax">Account tab</a>.',
     'text.notifications_desc_chat_message' => 'An unread messages is in chat',
     'text.notifications_desc_comments' => 'For your content (post, skin, etc.), or content, track by you added a new comment',
     'text.notifications_desc_friends_invite' => 'User offers friendship',

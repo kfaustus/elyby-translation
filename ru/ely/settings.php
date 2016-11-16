@@ -18,7 +18,7 @@ return [
     'text.gender_not_set' => 'Не задан',
     'text.minecraft_username' => 'Ник в Minecraft:',
     'text.nickname' => 'Никнейм:',
-    'text.nickname_desc' => 'Обратите внимание, что этот ник используется на сайте. <b>Сменить ник в Minecraft</b> можно на <a href="#account" class="no-ajax">вкладке Аккаунт</a>.',
+    'text.nickname_desc' => 'Обратите внимание: здесь вы меняете ник на сайте. <b>Сменить ник в Minecraft</b> можно на <a href="#account" class="no-ajax">вкладке Аккаунт</a>.',
     'text.notifications_desc_chat_message' => 'Непрочитанное сообщение в диалоге',
     'text.notifications_desc_comments' => 'К вашему материалу (пост, скин и т.д.) или материалу, отслеживаемому вами, добавили новый комментарий',
     'text.notifications_desc_friends_invite' => 'Пользователь предлагает дружбу',
